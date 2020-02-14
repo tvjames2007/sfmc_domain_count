@@ -1,3 +1,5 @@
+TARGET [domain_count] - OVERWRITE
+
 SELECT TOP 200
    strDomain,
    count(strDomain) as cntDomain
