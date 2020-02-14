@@ -1,0 +1,9 @@
+SELECT TOP 200
+   strDomain,
+   count(strDomain) as cntDomain
+FROM
+   [audience_rollup_sixmonths]
+GROUP BY
+   strDomain
+ORDER BY
+   cntDomain DESC
