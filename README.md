@@ -1,4 +1,4 @@
-# sfmc_domain_summary
+# sfmc_domain_count
 
 This is a summary of your top 200 domains in a Data Extension, sorted by the number of people in the audience.  
 
